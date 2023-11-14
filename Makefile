@@ -1,3 +1,4 @@
+test
 
 # Image URL to use all building/pushing image targets
 IMG ?= ghcr.io/bharvest-devops/cosmos-operator:latest
